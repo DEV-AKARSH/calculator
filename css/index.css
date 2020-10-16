@@ -58,7 +58,7 @@ footer{
 .operator,.operand,#clear,#execute,#back{cursor:pointer;}
 #display{cursor: not-allowed;}
 
-@media only screen and (max-width: 321px) {
+@media only screen and (max-width: 331px) {
     div#main{
         width: 95vw;
         height: auto;
