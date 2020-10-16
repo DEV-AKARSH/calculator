@@ -49,7 +49,7 @@ footer{
     background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
     color: white;
     border-radius: 2vw;
-    margin-top: 10vh;
+    margin-top: 5vh;
     text-align: center;
     width: 20vw;
     margin-left: 40vw;
@@ -58,7 +58,7 @@ footer{
 .operator,.operand,#clear,#execute,#back{cursor:pointer;}
 #display{cursor: not-allowed;}
 
-@media only screen and (max-width: 331px) {
+@media only screen and (max-width: 371px) {
     div#main{
         width: 95vw;
         height: auto;
