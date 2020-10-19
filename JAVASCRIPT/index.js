@@ -58,6 +58,7 @@ function makeExpression() {
 }
 
 function show( ){
+        if (expression.length <=0) exp=""
     screen.innerText=""
     screen.innerText=exp
 
